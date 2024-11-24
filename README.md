@@ -15,7 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashraf-youssef1)
+  [![see my LinkedIn for more](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashraf-youssef1)
+  [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-0a988b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashraf-youssef-dev-jchffkk.gamma.site/ashrafyoussef)
+  [![Message me on WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201000286401)
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,24 +27,17 @@
 ![coding](https://user-images.githubusercontent.com/71633148/200880843-ad960161-2456-4941-84f9-a1ed8208a2bf.gif)
  <h3>💻 GitHub Profile Stats</h3>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  
-===========================================================
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
-===========================================================
-
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
-
-![cheesits456's GitHub Stats][github-stats-img]
-===========================================================
-
+<a href="https://github.com/ashraf-youssef/github-readme-stats">
+  <img height="137px" alt="Ashraf Youssef's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=ashraf-youssef&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&title_color=F85D7F&icon_color=F8D866&bg_color=1F222E&theme=react" height="192px"/>
+<img height="137px" alt="Ashraf Youssef's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraf-youssef&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=ffffff&title_color=F85D7F&icon_color=79ff97&bg_color=1F222E&theme=react"  height="192px"/>
+</a>
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 
 <div align="center">
+  
 ### Show some ❤️ by starring some of the repositories!
+  
 </div>
 
 <p align="center">
