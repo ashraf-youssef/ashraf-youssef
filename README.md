@@ -20,9 +20,22 @@
   [![Message me on WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201000286401)
   
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40"> 
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"> 
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"> 
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40"> 
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"> 
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40"> 
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40"> 
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"> 
+</p>
+
 
 ![coding](https://user-images.githubusercontent.com/71633148/200880843-ad960161-2456-4941-84f9-a1ed8208a2bf.gif)
  <h3>💻 GitHub Profile Stats</h3>
