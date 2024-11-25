@@ -21,7 +21,7 @@
 
 <p align="left">
 
-  [![see my LinkedIn for more](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashraf-youssef1)
+  [![see my LinkedIn for more](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraf-youssef1)
   [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-0a988b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashraf-youssef-dev-jchffkk.gamma.site/ashrafyoussef)
   [![Message me on WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201000286401)
 
