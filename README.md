@@ -6,20 +6,27 @@
 # I little bit about me
 
 <img width="45%" align="right" alt="Github" src="images/good-times.svg" />
+
 - 🔭 I’m currently working on [SDriving App](https://github.com/ashraf-youssef/SDriving)
+
 - 🌱 I’m currently learning **Flutter , Kotln**
+
 - 👯 I’m looking to collaborate on [Zad Academy App](https://github.com/ashraf-youssef/Zad)
+
 - 👨‍💻 All of my projects are available at [my GitHub projects](https://github.com/ashraf-youssef)
+
 - 📫 How to reach me  [Message me on WhatsApp](https://wa.me/201000286401)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 
   [![see my LinkedIn for more](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashraf-youssef1)
   [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-0a988b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashraf-youssef-dev-jchffkk.gamma.site/ashrafyoussef)
   [![Message me on WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201000286401)
-  
+
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="35"> 
