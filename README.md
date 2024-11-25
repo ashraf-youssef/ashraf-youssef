@@ -1,12 +1,13 @@
-<img src="images/header.svg"></img>
+
+<!-- Any image aligned to the right. Beware the width -->
+<!-- <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+<img src="images/header.svg"/>
 <div align="center">
 	<br>
 		<img src="images/good-times.svg" width="400px">
 	<br>
 </div>
 
-<!-- Any image aligned to the right. Beware the width -->
-<!-- <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 - 🔭 I’m currently working on [SDriving App](https://github.com/ashraf-youssef/SDriving)
 
 - 🌱 I’m currently learning **Flutter , Kotln**
