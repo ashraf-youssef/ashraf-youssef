@@ -5,11 +5,8 @@
 	<br>
 </div>
 
-<h3 align="center">A passionate Fluttaer developer from Egypt</h3>
-
 <!-- Any image aligned to the right. Beware the width -->
 <!-- <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-
 - 🔭 I’m currently working on [SDriving App](https://github.com/ashraf-youssef/SDriving)
 
 - 🌱 I’m currently learning **Flutter , Kotln**
