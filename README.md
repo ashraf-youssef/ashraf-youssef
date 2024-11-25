@@ -2,12 +2,10 @@
 <!-- Any image aligned to the right. Beware the width -->
 <!-- <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 <img src="images/header.svg"/>
-<div align="center">
-	<br>
-		<img src="images/good-times.svg" width="400px">
-	<br>
-</div>
 
+# I little bit about me
+
+<img width="50%" align="right" alt="Github" src="images/good-times.svg" />
 - 🔭 I’m currently working on [SDriving App](https://github.com/ashraf-youssef/SDriving)
 
 - 🌱 I’m currently learning **Flutter , Kotln**
@@ -47,8 +45,8 @@
  <h3>💻 GitHub Profile Stats</h3>
 
 <a href="https://github.com/ashraf-youssef/github-readme-stats">
-  <img height="137px" alt="Ashraf Youssef's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=ashraf-youssef&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&title_color=F85D7F&icon_color=F8D866&bg_color=1F222E&theme=react" height="192px"/>
-<img height="137px" alt="Ashraf Youssef's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraf-youssef&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=ffffff&title_color=F85D7F&icon_color=79ff97&bg_color=1F222E&theme=react"  height="192px"/>
+  <img height="137px" alt="Ashraf Youssef's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=ashraf-youssef&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&title_color=ce09ec&icon_color=007ec6&bg_color=0,000000,130F40&theme=react" height="192px"/>
+<img height="137px" alt="Ashraf Youssef's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraf-youssef&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=ffffff&title_color=ce09ec&icon_color=007ec6&bg_color=0,000000,130F40&theme=react"  height="192px"/>
 </a>
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
