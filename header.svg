@@ -32,11 +32,11 @@ rect.headerRect:hover {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #4447e3;  
+  fill: #000000;  
 }
 
 .wave:hover {
-  fill: #5457ff;
+  fill: #000000;
 }
 
 .drop:hover {
@@ -44,7 +44,7 @@ rect.headerRect:hover {
 }
 
 .drop {
-  fill: #4447e3;
+  fill: #0a0a0a;
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
   stroke: #4447e3;
@@ -180,10 +180,10 @@ g.typingUnderline rect {
   <animate attributeName="d" from="m38,-6 h0" to="m38,-6 h100" dur="9.4s" begin="0s" fill="freeze"/>
 </path>
 
-<text font-family="Courier New" font-size=".22em" fill="white"
+<text font-family="Courier New" font-size=".26em" fill="white"
       font-weight="bold" letter-spacing="2">
   <textPath xlink:href="#nameTyping" >
-      BRUNO TACCA
+      Ashraf Youssef
   </textPath>
 </text>
 
@@ -201,7 +201,7 @@ g.typingUnderline rect {
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
-      Leadership, Software Architecture, Development, Science &amp; Technology.
+      Flutter , Development, Science &amp; Technology.
   </textPath>
 </text>
 
