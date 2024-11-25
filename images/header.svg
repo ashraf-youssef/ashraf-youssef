@@ -204,13 +204,7 @@ g.typingUnderline rect {
       Flutter, Kotlen, Android Developer.
   </textPath>
 </text>
-
-<div align="center">
-	<br>
-		<img src="images/good-times.svg" width="400px">
-	<br>
-</div>
-  
+ 
 <!-- <text x="2" y="12" font-family="Helvetica" font-size=".22em" 
       fill="#AAA" font-weight="bold"> 
       Hi there!
