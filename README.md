@@ -59,5 +59,5 @@
 </div>
 
 <p align="center">
-        <img src="https://github.com/ashraf-youssef/ashraf-youssef/blob/main/gifs/Bottom.svg" alt="Github Stats" />
+        <img src="https://github.com/ashraf-youssef/ashraf-youssef/blob/main/images/Bottom.svg" alt="Github Stats" />
 </p>
