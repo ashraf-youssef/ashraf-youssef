@@ -43,7 +43,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35"> 
 </p>
 
-![coding](https://user-images.githubusercontent.com/71633148/200880843-ad960161-2456-4941-84f9-a1ed8208a2bf.gif)
+![coding](https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif)
 
  <h3>💻 GitHub Profile Stats</h3>
 
