@@ -43,9 +43,11 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35"> 
 </p>
 
-![coding](https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif)
+<!-- ![coding](https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif) -->
 
  <h3>💻 GitHub Profile Stats</h3>
+ 
+<img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" />
 
 <a href="https://github.com/ashraf-youssef/github-readme-stats">
   <img height="137px" alt="Ashraf Youssef's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=ashraf-youssef&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&title_color=ce09ec&icon_color=007ec6&bg_color=0,000000,130F40&theme=react" height="192px"/>
